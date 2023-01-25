@@ -149,6 +149,9 @@ nav h1{
 }
 
 /* Footer */
+.social_icon{
+  margin:12px 5px;
+}
 
 #footer{
   padding:5% 15%;
